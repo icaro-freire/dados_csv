@@ -8,6 +8,9 @@
   <h2 align = "center">
       Dados .csv
   </h2>
+  <h2 align = "center">
+      :construction: (em construção) :construction:
+  </h2>
 </p>
 
 ## Para que serve esse repositório?
@@ -23,6 +26,6 @@ Apenas, foram modificados os nomes de cada variável (para o português), bem co
 `tidyverse`.
 
 ### *Datasets* do R Base
-|nome (em inglês) | descricao_curta | descricao_longa (link)|
+|nome (inglês) | descricao_curta | descricao_longa (link)|
 |-----------------| ----------------|-----------------------|
-ability.cov | *Ability and Intelligence Tests* (Testes de habilidade e inteligência): Seis testes foram aplicados a 112 indivíduos. A matriz de covariância é dada neste objeto. | depois |
+|airmiles | *Passenger Miles on Commercial US Airlines, 1937-1960* | depois |
