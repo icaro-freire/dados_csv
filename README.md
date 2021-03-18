@@ -21,11 +21,15 @@ Esse repositório serve para auxiliar os estudantes do curso de Introdução à 
 [UFRB]: https://www.ufrb.edu.br/portal
 
 ## Explicando cada *dataset*
-Os *datasets* seguintes são do `R Base` e do pacote `ggplot2`.
-Apenas, foram modificados os nomes de cada variável (para o português), bem como foram feitos ajustes nos arquivos para que fiquem com a congifuração do estilo
-`tidyverse`.
+Os *datasets* seguintes são extraídos de diversas bases de dados.
+As principais delas são do `R Base` e do `ggplot2`.
 
-### *Datasets* do R Base
-|nome (inglês) | descricao_curta | descricao_longa (link)|
-|-----------------| ----------------|-----------------------|
-|airmiles | *Passenger Miles on Commercial US Airlines, 1937-1960* | depois |
+Para a traução dos *datasets* citados acima, usamos o pacote [dados](https://github.com/cienciadedatos/dados).
+
+### *Datasets* 
+
+Nome | Formato | Descrição  | Saiba Mais
+---- | ------- | ---------- | -----------
+peixe_rio_madeira.csv | Planilha de dados dos peixes do Rio Madeira, que contém informação de 97370 indivíduos, que foram coletados em 11 locais, ao longo de 10 anos de estudo. |  `.csv` | [link](https://www.santoantonioenergia.com.br/peixesdoriomadeira/index.html)
+PeixesRioMadeira.xlsx | `.xlsx` | - | - 
+
