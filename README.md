@@ -28,8 +28,17 @@ Para a traução dos *datasets* citados acima, usamos o pacote [dados](https://g
 
 ### *Datasets* 
 
-Nome | Descrição  | Formato    | Saiba Mais
----- | ---------- | ---------- | -----------
-[peixes_rio_madeira.csv](dados/tidy_csv/peixes_rio_madeira.csv) | Planilha de dados dos peixes do Rio Madeira, que contém informação de 97370 indivíduos, que foram coletados em 11 locais, ao longo de 10 anos de estudo. |  `.csv` | [link](https://www.santoantonioenergia.com.br/peixesdoriomadeira/index.html)
-[PeixesRioMadeira.xlsx](dados/brutos/PeixesRioMadeira.xlsx) | - | `.xlsx` | - 
+#### Tidy `.csv`
+
+Nome | Descrição  | Saiba Mais
+---- | ---------- | ---------- 
+[peixes_rio_madeira.csv](dados/tidy_csv/peixes_rio_madeira.csv) | Planilha de dados dos peixes do Rio Madeira, que contém informação de 97370 indivíduos, que foram coletados em 11 locais, ao longo de 10 anos de estudo. | [link](https://www.santoantonioenergia.com.br/peixesdoriomadeira/index.html)
+[gordura_corporal.csv](dados/tidy_csv/gordura_corporal.csv) | _Dataset_ **BodyFat**, que dá a porcentagem de gordura corporal para 100 homens, usando variáveis como idade, peso (_em libras_), altura (_em polegadas_) e medidas de circunferência (_em cm_) para o pescoço, peito, abdômen, tornozelo, bíceps e punho.
+
+
+#### Bruto (diversos formatos) 
+
++ [PeixesRioMadeira.xlsx](dados/brutos/PeixesRioMadeira.xlsx)  
++ [BodyFat.csv](dados/brutos/BodyFat.csv)
+
 
