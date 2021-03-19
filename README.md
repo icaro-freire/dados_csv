@@ -34,7 +34,7 @@ Nome | Descrição  | Saiba Mais
 ---- | ---------- | ---------- 
 [peixes_rio_madeira.csv](dados/tidy_csv/peixes_rio_madeira.csv) | Planilha de dados dos peixes do Rio Madeira, que contém informação de 97370 indivíduos, que foram coletados em 11 locais, ao longo de 10 anos de estudo. | [link](https://www.santoantonioenergia.com.br/peixesdoriomadeira/index.html)
 [gordura_corporal.csv](dados/tidy_csv/gordura_corporal.csv) | _Dataset_ **BodyFat**, que dá a porcentagem de gordura corporal para 100 homens, usando variáveis como idade, peso (_em libras_), altura (_em polegadas_) e medidas de circunferência (_em cm_) para o pescoço, peito, abdômen, tornozelo, bíceps e punho. Pode-se usar: 1 libra = 0,453592$ kg, bem como, 1 polegada = 2,54 cm | [link](http://jse.amstat.org/v4n1/datasets.johnson.html)
-
+[milhas_por_galao](dados/tidy_csv/milhas_por_galao.csv) | Dados de economia de combustível de 1999 a 2008 para 38 modelos populares de carros, disponibilizados pela [EPA](https://www.epa.gov/) em [https://fueleconomy.gov/](https://fueleconomy.gov/). É a tradução do *dataset* `mpg`. O termos `mpg` significa "milhas por galão", trazendo a ideia de quantas milhas (1 milha = 1,60934 km) o carro percorre com um galão (1 galão = 3,78541 litros) de combustível. | [link](https://ggplot2.tidyverse.org/reference/mpg.html)
  
 #### Bruto (diversos formatos) 
 
