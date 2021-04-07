@@ -37,6 +37,7 @@ Nome | Descrição  | Saiba Mais
 [milhas_por_galao.csv](dados/csv/milhas_por_galao.csv) | Dados de economia de combustível de 1999 a 2008 para 38 modelos populares de carros, disponibilizados pela [EPA](https://www.epa.gov/) em [https://fueleconomy.gov/](https://fueleconomy.gov/). É a tradução do *dataset* `mpg`. O termo `mpg` significa "milhas por galão", trazendo a ideia de quantas milhas (1 milha = 1,60934 km) o carro percorre com um galão (1 galão = 3,78541 litros) de combustível. | [link](https://ggplot2.tidyverse.org/reference/mpg.html)
 [dados_co2.csv](dados/csv/dados_co2.csv) | O _dataset_ `co2` é uma série temporal de 468 observações, mensalmente, de 1950 até 1997. As concentrações atmosféricas de CO2 são expressas em partes por milhão (ppm) e relatadas na escala de fração molar manométrica SIO preliminar de 1997. | [link](https://www.rdocumentation.org/packages/datasets/versions/3.4.3/topics/co2)
 [frango_dieta.csv](dados/csv/frango_dieta.csv) | `tibble` com 578 linhas e 4 colunas que trata de um experimento sobre o efeito de certas dietas no crescimento inicial de frangos. | [link](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/ChickWeight)
+[notas_disciplina.csv](dados/csv/notas_disciplina.csv)| Conjunto de dados hipotéticos para trabalhar com a arrumação tidy. | [link](https://tidyr.tidyverse.org/)
  
 #### Diversos formatos
 
