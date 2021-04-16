@@ -38,6 +38,7 @@ Nome | Descrição  | Saiba Mais
 [dados_co2.csv](dados/csv/dados_co2.csv) | O _dataset_ `co2` é uma série temporal de 468 observações, mensalmente, de 1950 até 1997. As concentrações atmosféricas de CO2 são expressas em partes por milhão (ppm) e relatadas na escala de fração molar manométrica SIO preliminar de 1997. | [link](https://www.rdocumentation.org/packages/datasets/versions/3.4.3/topics/co2)
 [frango_dieta.csv](dados/csv/frango_dieta.csv) | `tibble` com 578 linhas e 4 colunas que trata de um experimento sobre o efeito de certas dietas no crescimento inicial de frangos. | [link](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/ChickWeight)
 [notas_disciplina.csv](dados/csv/notas_disciplina.csv)| É um conjunto de dados hipotéticos que representam médias de alunos de Matemática (“Mat”) e Química (“Qui”) durante os anos de 2010 até 2020. São 20 alunos hipotéticos, sendo 10 de cada curso, escolhidos aleatoriamente, ano a ano. A ideia é trabalhar com a arrumação tidy. | [link](https://tidyr.tidyverse.org/)
+[dados_enganosos.csv](dados/csv/dados_enganosos.csv) | Esse conjunto de dados, conhecido por `Quarteto de Anscombe`, foi construído artificialmente pelo estatístico  Francis Anscombe para enfatizar a importância da visualização dos dados| [link](https://pt.wikipedia.org/wiki/Quarteto_de_Anscombe)
  
 #### Diversos formatos
 
