@@ -12,7 +12,6 @@ library(tidyverse)
 
 titanic <- read_csv("dados/csv/titanic.csv")
 
-
 # Mudando a variável `sobreviveu` -----------------------------------------
 
 #titanic <- titanic %>%
