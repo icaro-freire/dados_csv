@@ -39,6 +39,7 @@ Nome | Descrição  | Saiba Mais
 [frango_dieta.csv](dados/csv/frango_dieta.csv) | `tibble` com 578 linhas e 4 colunas que trata de um experimento sobre o efeito de certas dietas no crescimento inicial de frangos. | [link](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/ChickWeight)
 [notas_disciplina.csv](dados/csv/notas_disciplina.csv)| É um conjunto de dados hipotéticos que representam médias de alunos de Matemática (“Mat”) e Química (“Qui”) durante os anos de 2010 até 2020. São 20 alunos hipotéticos, sendo 10 de cada curso, escolhidos aleatoriamente, ano a ano. A ideia é trabalhar com a arrumação tidy. | [link](https://tidyr.tidyverse.org/)
 [quarteto_de_anscombe.csv](dados/csv/quarteto_de_anscombe.csv) | Esse conjunto de dados, conhecido por `Quarteto de Anscombe`, foi construído artificialmente pelo estatístico  Francis Anscombe para enfatizar a importância da visualização dos dados| [link](https://pt.wikipedia.org/wiki/Quarteto_de_Anscombe)
+[titanic.csv](dados/csv/titanic.csv) | Conjunto de dados sobre o famoso navio titanic | [link](https://pt.wikipedia.org/wiki/RMS_Titanic)
  
 #### Diversos formatos
 
