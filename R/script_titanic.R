@@ -22,7 +22,12 @@ titanic <- read_csv("dados/csv/titanic.csv")
 #  ) %>%
 #  select(-id)
 
-titanic$sexo <- str_replace_all(titanic$sexo, c("female" = "feminino", "male" = "masculino"))
+#titanic$sexo <- str_replace_all(titanic$sexo, c("female" = "feminino", "male" = "masculino"))
+
+titanic <- titanic %>%
+  relocate(
+    nome, sexo, idade, sobreviveu, pais_filhos, conjuge_irmaos, passagem, classe, preco_passagem, cabine
+  )
 
 # Escrevendo o dataset ----------------------------------------------------
 
