@@ -40,6 +40,7 @@ Nome | Descrição  | Saiba Mais
 [notas_disciplina.csv](dados/csv/notas_disciplina.csv)| É um conjunto de dados hipotéticos que representam médias de alunos de Matemática (“Mat”) e Química (“Qui”) durante os anos de 2010 até 2020. São 20 alunos hipotéticos, sendo 10 de cada curso, escolhidos aleatoriamente, ano a ano. A ideia é trabalhar com a arrumação tidy. | [link](https://tidyr.tidyverse.org/)
 [quarteto_de_anscombe.csv](dados/csv/quarteto_de_anscombe.csv) | Esse conjunto de dados, conhecido por `Quarteto de Anscombe`, foi construído artificialmente pelo estatístico  Francis Anscombe para enfatizar a importância da visualização dos dados| [link](https://pt.wikipedia.org/wiki/Quarteto_de_Anscombe)
 [titanic.csv](dados/csv/titanic.csv) | Conjunto de dados sobre o famoso navio titanic | [link](https://pt.wikipedia.org/wiki/RMS_Titanic)
+[gapminder](dados/csv/gapminder.csv) | Conjunto de dados mundiais sobre expectativa de vida; pib _per_ _capita_ e tamanho da população. As informações deste _dataset_ são de 1952 até 2007, embora existam informações mais atualizadas | [link](https://www.gapminder.org)
  
 #### Diversos formatos
 
